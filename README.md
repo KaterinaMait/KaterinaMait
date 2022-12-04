@@ -1,18 +1,9 @@
-[![Header]([https://github.com/KaterinaMait/-/issues/1#issue-1474689898)]
-## I'm a QA Engineer and Tutor. 
-## A creator of "Artsiom Rusau QA Life" Youtube channel 
+([https://github.com/KaterinaMait/-/issues/1#issue-1474689898)]![a3af356c5d57a46a1abdf37421ce3ac3](https://user-images.githubusercontent.com/101190463/205486153-c546c41d-35ea-48fc-a8c1-8bd193387ed5.jpg)
+
+## I'm a QA Engineer. 
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
 
-## Latest Youtube Videos
-
-<!-- YOUTUBE:START -->
-- [Курс Тестировщик с нуля - как эффективно пройти?](https://www.youtube.com/watch?v=g6hbLHEtdfo)
-- [Youtrack -  обзор функций для тестировщика &lpar;QA&rpar;](https://www.youtube.com/watch?v=Z5tUf4VHVQA)
-- [ТЕСТИРОВАНИЕ НА ПРИМЕРЕ GEEKBRAINS. ЧТО ДЕЛАЕТ ТЕСТИРОВЩИК?](https://www.youtube.com/watch?v=TF_MEwZx_u0)
-- [Как написать правильный  отчёт о дефекте &lpar;баг репорт&rpar;?](https://www.youtube.com/watch?v=faWdtll7KNc)
-- [QASE - обзор TMS для тестировщика &lpar;QA&rpar;](https://www.youtube.com/watch?v=Cj6jHmsnWiU)
-<!-- YOUTUBE:END -->
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
