@@ -1,4 +1,5 @@
-([https://github.com/KaterinaMait/-/issues/1#issue-1474689898)]![a3af356c5d57a46a1abdf37421ce3ac3](https://user-images.githubusercontent.com/101190463/205486153-c546c41d-35ea-48fc-a8c1-8bd193387ed5.jpg)
+![1616608048667](https://user-images.githubusercontent.com/101190463/205486640-59cb1b20-002d-4667-93cd-63204249bbf0.jpg)
+
 
 ## I'm a QA Engineer. 
 ## My CV
