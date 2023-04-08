@@ -29,4 +29,4 @@
 [![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/rusau.qalife/)
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/sukhovakaterina)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=katerinamait&theme=dark&show_icons=true))
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=katerinamait&theme=dark&show_icons=true)
